@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pablo Fernández Alburquerque!
+# 👋 Hi there, I'm Pablo!
 
 Welcome to my GitHub profile (@pablo-fdz)! I'm a data scientist and economist with solid technical and quantitative foundations, able to interpret data and, more importantly, explain its story.
 

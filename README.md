@@ -8,7 +8,7 @@ Welcome to my GitHub profile (@pablo-fdz)! I'm a data scientist and economist wi
 
 - 👀 I’m interested in empirical and data-driven projects with a positive social impact.
 - 🌱 I’m currently taking a Data Science Master's at the Barcelona School of Economics, where I'm learning machine learning, database management, text mining and NLP, etc.
-- 📫 Reach me at [LinkedIn](www.linkedin.com/in/fernandez-alburquerque).
+- 📫 Reach me and check out my education and work experience at [LinkedIn](www.linkedin.com/in/fernandez-alburquerque).
 
 ---
 
@@ -59,6 +59,9 @@ Some libraries:
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![polars](https://img.shields.io/badge/polars-FFDD00?style=for-the-badge&logo=python&logoColor=black)
+![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)	
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -67,6 +70,8 @@ Some libraries:
 ![igraph](https://img.shields.io/badge/igraph-E84A27?style=for-the-badge&logo=python&logoColor=white)
 ![nltk](https://img.shields.io/badge/nltk-FFB300?style=for-the-badge&logo=python&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1D91C0?style=for-the-badge&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=r&logoColor=white)
 ![sf](https://img.shields.io/badge/sf-2E8B57?style=for-the-badge&logo=r&logoColor=white)
 ![terra](https://img.shields.io/badge/terra-228B22?style=for-the-badge&logo=r&logoColor=white)
 
@@ -81,7 +86,7 @@ Some libraries:
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/fernandez-alburquerque)
 
 <!---
 pablo-fdz/pablo-fdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

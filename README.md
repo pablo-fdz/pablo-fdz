@@ -8,7 +8,7 @@ Welcome to my GitHub profile (@pablo-fdz)! I'm a data scientist and economist wi
 
 - 👀 I’m interested in empirical and data-driven projects with a positive social impact.
 - 🌱 I’m currently taking a Data Science Master's at the Barcelona School of Economics, where I'm learning machine learning, database management, text mining and NLP, etc.
-- 📫 Reach me and check out my education and work experience at [LinkedIn](www.linkedin.com/in/fernandez-alburquerque).
+- 📫 Reach me and check out my education and work experience at [LinkedIn](https://www.linkedin.com/in/fernandez-alburquerque).
 
 ---
 
@@ -86,7 +86,7 @@ Some libraries:
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/fernandez-alburquerque)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernandez-alburquerque)
 
 <!---
 pablo-fdz/pablo-fdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

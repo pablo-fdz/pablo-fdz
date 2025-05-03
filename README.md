@@ -40,6 +40,12 @@ Here are a few repositories I'm proud of:
 >
 > ❔ OLAP and ROLAP queries on the data warehouse.
 
+### 🏠 [`DL_improc_hw1`](https://github.com/pablo-fdz/DL_improc_hw1)
+> 🕸️ Built the architecture of the U-Net convolutional network with `pytorch`.
+>
+> 🏗️ Applied U-Net for image segmentation (finding buildings from real-world aerial images).
+>
+> 🗂️ Organized the end-to-end pipeline for image segmentation in a library with classes and functions.
 
 You can check out more of my repositories [here](https://github.com/pablo-fdz?tab=repositories).
 
@@ -67,6 +73,7 @@ Some libraries:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-003366?style=for-the-badge&logo=python&logoColor=white)	
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![igraph](https://img.shields.io/badge/igraph-E84A27?style=for-the-badge&logo=python&logoColor=white)
 ![nltk](https://img.shields.io/badge/nltk-FFB300?style=for-the-badge&logo=python&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)

@@ -40,10 +40,10 @@ Here are a few repositories I'm proud of:
 >
 > ❔ OLAP and ROLAP queries on the data warehouse.
 
-### 🏠 [`DL_improc_hw1`](https://github.com/pablo-fdz/DL_improc_hw1)
+### 🖼️ [`DL_improc_hw1`](https://github.com/pablo-fdz/DL_improc_hw1)
 > 🕸️ Built the architecture of the U-Net convolutional network with `pytorch`.
 >
-> 🏗️ Applied U-Net for image segmentation (finding buildings from real-world aerial images).
+> 🏠 Applied U-Net for image segmentation (finding buildings from real-world aerial images).
 >
 > 🗂️ Organized the end-to-end pipeline for image segmentation in a library with classes and functions.
 

@@ -7,7 +7,7 @@ Welcome to my GitHub profile (@pablo-fdz)! I'm a data scientist and economist wi
 ## 🚀 About Me
 
 - 👀 I’m interested in empirical and data-driven projects with a positive social impact.
-- 🌱 I’m currently taking a Data Science Master's at the Barcelona School of Economics, where I'm learning machine learning, database management, text mining and NLP, etc.
+- 🌱 I have graduated from a Data Science Master's at the Barcelona School of Economics, where I have learnt machine learning, deep learning, database management, text mining and NLP, image processing, GenAI applications, etc.
 - 📫 Reach me and check out my education and work experience at [LinkedIn](https://www.linkedin.com/in/fernandez-alburquerque).
 
 ---

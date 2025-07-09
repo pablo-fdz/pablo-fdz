@@ -18,7 +18,7 @@ Here are a few repositories I'm proud of:
 
 ### 🌐 [`UN_Conflict_Report`](https://github.com/pablo-fdz/UN_Conflict_Report)
 
-An end-to-end pipeline that generates forward-looking security reports for any country using a GraphRAG (Retrieval-Augmented Generation) approach. Developed as part of the Data Science for Decision-Making's master's thesis, together with [Anastasiia Chernavskaia](https://github.com/ananstr) and [Blanca Jiménez](https://github.com/blancajimenezzzz).
+An end-to-end pipeline that generates forward-looking security reports for any country using a GraphRAG (Retrieval-Augmented Generation) approach. Developed for the United Nations Development Programme as part of the Data Science for Decision-Making's master's thesis, together with [Anastasiia Chernavskaia](https://github.com/ananstr) and [Blanca Jiménez](https://github.com/blancajimenezzzz).
 
 > 📰 Ingests data from sources like ACLED, Factal, and Google News.
 >
